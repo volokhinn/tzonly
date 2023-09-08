@@ -22,7 +22,7 @@ body {
     gap: 0;
 
     color: #fff;
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 500;
     line-height: 80%;
 
@@ -50,53 +50,53 @@ body {
 }
 
 #btn-1 {
-    left: 20%;
-    top: 20%;
+    left: 31.5%;
+    top: 25%;
 }
 
 #btn-2 {
-    bottom: 200px;
-    left: 500px;
+    bottom: 25%;
+    left: 24%;
 }
 
 #btn-3 {
-    top: 55%;
-    left: 700px;
+    top: 46%;
+    left: 37%;
 }
 
 #btn-4 {
-    top: 45%;
-    right: 730px;
+    top: 38%;
+    left: 60%;
 }
 
 #btn-5 {
-    bottom: 25%;
-    right: 760px;
+    bottom: 34%;
+    left: 57%;
 }
 
 #btn-6 {
-    bottom: 7%;
-    right: 750px;
+    bottom: 16%;
+    left: 59%;
 }
 
 #btn-7 {
-    bottom: 22%;
-    right: 550px;
+    bottom: 30%;
+    left: 69%;
 }
 
 #btn-8 {
-    top: 28%;
-    right: 490px;
+    top: 19%;
+    left: 72.5%;
 }
 
 #btn-9 {
-    top: 54%;
-    right: 450px;
+    top: 45%;
+    left: 75%;
 }
 
 #btn-10 {
-    bottom: 17%;
-    right: 270px;
+    bottom: 24%;
+    left: 84%;
 }
 
 .btn__text {
@@ -104,6 +104,7 @@ body {
     overflow: hidden;
     display: inline-block;
     max-width: 0;
+    line-height: 15px;
 }
 
 .btn_active {
