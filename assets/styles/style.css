@@ -1,0 +1,78 @@
+body {
+    overflow: hidden;
+}
+.btn {
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    padding: 15px;
+
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 80%;
+
+    border: none;
+    cursor: pointer;
+
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
+
+.btn__blue {
+    background-color: rgba(56, 119, 238, 0.7);
+}
+
+.btn__green {
+    background-color: rgba(106, 191, 75, 0.7);
+}
+
+#btn-1 {
+    left: 630px;
+    top: 320px;
+}
+
+#btn-2 {
+    bottom: 200px;
+    left: 500px;
+}
+
+#btn-3 {
+    top: 55%;
+    left: 700px;
+}
+
+#btn-4 {
+    top: 45%;
+    right: 730px;
+}
+
+#btn-5 {
+    bottom: 25%;
+    right: 760px;
+}
+
+#btn-6 {
+    bottom: 7%;
+    right: 750px;
+}
+
+#btn-7 {
+    bottom: 22%;
+    right: 550px;
+}
+
+#btn-8 {
+    top: 28%;
+    right: 490px;
+}
+
+#btn-9 {
+    top: 54%;
+    right: 450px;
+}
+
+#btn-10 {
+    bottom: 17%;
+    right: 270px;
+}
